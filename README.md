@@ -2,7 +2,7 @@
 👀 I’m interested in coding, especially in C, C++, and exploring game development.
 🌱 I’m currently learning C programming and deepening my skills in math and coding logic.
 💞️ I’m looking to collaborate on projects involving tech, gaming, and software development.
-📫 How to reach me: [Your Email or Social Media Handle Here]
+📫 How to reach me: aribmashrafi@gmail.com 
 😄 Pronouns: He/Him
 ⚡ Fun fact: I'm a huge fan of anime, the MCU, and football, especially Messi and Barca!
 
